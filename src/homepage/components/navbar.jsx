@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar() {
   return (
     <div>
-      <nav class="bg-orange-400 border-gray-200 py-2.5 dark:bg-gray-900 min-h-48">
+      <nav class="bg-orange-700 text-white border-gray-200 py-2.5 dark:bg-gray-900 min-h-48">
         <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <a href="#" class="flex items-center">
             <img

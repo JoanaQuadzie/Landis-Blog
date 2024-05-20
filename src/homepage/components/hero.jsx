@@ -2,6 +2,7 @@ import React from "react";
 import Herobg from "../../assets/images/herobg.jpg";
 import Work1 from "../../assets/images/work1.jpg";
 import Work2 from "../../assets/images/work2.jpg";
+import Below from "../../assets/images/below.jpg";
 
 export default function Hero() {
   return (
@@ -152,7 +153,7 @@ export default function Hero() {
                 finance, accounting, and tax laws, as well as an ability to
                 negotiate favorable terms and manage risks effectively.
               </p>
-              <h2 className="my-2  text-3xl  font-family:Arial">
+              <h2 className="my-2  text-3xl font-family:Arial">
                 The Marketing and Sales Guru
               </h2>
               <p>
@@ -166,12 +167,14 @@ export default function Hero() {
                 understanding of real estate sales and marketing, as well as
                 excellent communication and negotiation skills.
               </p>
-              <h2 className="my-2  text-3xl  font-family:Arial">
+              <h2 className="my-2  text-3xl font-family:Arial">
                 The Visionary and Planner
               </h2>
               <p>
                 Finally,
-                <span className="text-blue-400">real estate developers are visionaries and planners</span>
+                <span className="text-blue-400">
+                  real estate developers are visionaries and planners
+                </span>
                 who are committed to creating long-term value in the communities
                 where they build. They must be able to anticipate future trends
                 and needs, and design projects that respond to them while
@@ -179,6 +182,104 @@ export default function Hero() {
                 must also be committed to enhancing the local community and
                 creating spaces that are both functional and beautiful.
               </p>
+              <img className="mt-4" src={Below} />
+              <h2 className="my-2 text-3xl font-family:Aria">
+                Becoming a Successful Real Estate Developer
+              </h2>
+              <p>
+                Real estate development is a complex and challenging profession
+                that involves a variety of skills and expertise. Becoming a
+                successful real estate developer requires not only a deep
+                understanding of the industry but also a commitment to hard
+                work, creativity, and innovation. In this blog post, we will
+                explore some of the key steps you can take to become a
+                successful real estate developer and build a rewarding and
+                fulfilling career in this exciting field.
+              </p>
+              <h2 className="my-2 text-3xl font-family:Aria">
+                Gain relevant education and work experience
+              </h2>
+              <p>
+                The first step to becoming a successful real estate developer is
+                to{" "}
+                <span className="text-blue-400">
+                  gain the relevant education and work experience
+                </span>
+                . You should study fields such as real estate, architecture, and
+                construction management. In addition, working in the industry as
+                an intern or a junior employee can provide you with valuable
+                hands-on experience and exposure to different aspects of real
+                estate development. Furthermore, networking with professionals
+                in the field can help you develop a broader understanding of the
+                industry and allow you to meet potential clients and partners.
+                Many real estate developers also have current real estate
+                licenses in the states where they work.
+              </p>
+              <h2 className="my-2 text-3xl font-family:Aria">
+                Develop a unique value proposition
+              </h2>
+              <p>
+                To succeed in the highly competitive real estate market, you
+                need to develop a unique value proposition that sets you apart
+                from other developers. This could be in the form of a
+                specialized niche, such as sustainable housing or student
+                housing, or a unique approach to development, such as adaptive
+                reuse or mixed-use development. By focusing on a specific area
+                of real estate development, you can build a strong brand and
+                reputation that will help you attract clients and investors.
+              </p>
+              <h2 className="my-2 text-3xl font-family:Aria">
+                Build a strong team
+              </h2>
+              <p>
+                A successful real estate developer needs to build a strong team
+                of professionals who can help them with various aspects of the
+                development process. This includes architects, engineers,
+                contractors, lawyers, real estate agents, and other specialists.
+                A strong team can help you overcome the numerous challenges that
+                arise during development and ensure that your projects are
+                completed on time, within budget, and to the highest standards
+                of quality.
+              </p>
+              <h2 className="my-2 text-3xl font-family:Aria">
+                Manage risk effectively
+              </h2>
+              <p>
+                Real estate development involves a significant amount of risk,
+                particularly when it comes to financing, zoning, and
+                environmental issues. To manage risk effectively, you need to
+                stay informed of changes in regulations and laws, conduct
+                thorough due diligence before purchasing a property, and develop
+                contingency plans for potential risks. Furthermore, it is
+                essential to maintain strong relationships with financial
+                institutions and investors and to have a solid understanding of
+                financing options and tax incentives.
+              </p>
+              <h2 className="my-2 text-3xl font-family:Aria">
+                Stay on top of trends and innovations
+              </h2>
+              <p>
+                To stay ahead of the competition, a successful real estate
+                development company needs to stay on top of the latest industry
+                trends and innovations. This includes staying informed of
+                changes in demographics, technology, and consumer behavior, as
+                well as being familiar with emerging technologies such as 3D
+                printing and renewable energy. By staying informed and
+                adaptable, you can anticipate market changes and capitalize on
+                new opportunities when they arise.
+              </p>
+              <p className="my-4">
+                In conclusion, becoming a successful real estate developer is a
+                challenging but rewarding career path that requires a
+                combination of education, experience, creativity, and
+                innovation. By developing a strong value proposition, building a
+                strong team, managing risk effectively, and staying on top of
+                industry trends and innovations, you can build a successful and
+                fulfilling career in this exciting field. While there is no
+                guarantee of success, pursuing your passion for real estate
+                development can lead to a fulfilling and rewarding career.
+              </p>
+
               <div class="py-5 text-sm font-regular text-gray-900 flex">
                 <span class="mr-3 flex flex-row items-center">
                   <svg
